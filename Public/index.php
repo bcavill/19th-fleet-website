@@ -3,6 +3,7 @@
     <title>19th Fleet | Arma 3 unit</title>
     <meta name='description' content='The 19th Fleet is a serious, Story-driven, Arma 3 Milsim unit set in the events of the Halo universe during the ending years of Operation: TREBUCHET.'>
     <meta name='keywords' content='Arma, Arma 3, 19th fleet, optre'>
+	<meta name="google-site-verification" content="secR8dA716siEVAx-8mtGqzZWD3t2_l2obROf_P469E" />
     <link rel="shortcut icon" type="image/x-icon" href="Images/19th.png" />
     <link rel='stylesheet' href='CSS/main.css?1'/>
 </head>
